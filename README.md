@@ -55,6 +55,7 @@
 - [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) – Open-source cross-platform SQL editor.
 - [DataGrip](https://www.jetbrains.com/datagrip/) – JetBrains SQL IDE.
 - [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) – SQLite visual interface.
+- [SQLly](https://sqlly.app/) – Cross-platform SQL client with IntelliSense and schema intelligence.
 
 ## CLI Tools
 
